@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683658750251",
+    "project_id": "fir-ease",
+    "storage_bucket": "fir-ease.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683658750251:android:a43756f72747b28cd83d6e",
+        "android_client_info": {
+          "package_name": "com.jagannathm007.firebase_ease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683658750251-iqt9vvmij1seodq7fmofchmr3a6ge6ad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8u3G7gdo_Dor4W7TD-qNpf7T2ulNBgD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683658750251-iqt9vvmij1seodq7fmofchmr3a6ge6ad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
